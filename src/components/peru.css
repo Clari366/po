@@ -1,0 +1,18 @@
+.peru-container {
+  text-align: center;
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+}
+
+.peru-container h1 {
+  color: navy;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.peru-container p {
+  font-size: 1.2rem;
+  color: #333;
+}

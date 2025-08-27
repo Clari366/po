@@ -1,0 +1,21 @@
+.card-container {
+  margin: 30px auto;
+  width: 70%;
+  background-color: #f9f9ff;
+  border: 2px solid #6a5acd;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.15);
+}
+
+.card-container h2 {
+  color: #6a5acd;
+  margin-bottom: 10px;
+}
+
+.card-container p {
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.5;
+}
